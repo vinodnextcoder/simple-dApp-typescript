@@ -10,7 +10,7 @@ This repository contains a source code to create simple CURD application and sma
 
 
 #### Setup 
-- Follow this [Simple blockchain dapp vinod's](https://dev.to/vinodnextcoder/create-your-first-simple-dapp-on-ethereum-55k1) to create a decentralized application.
+- Follow this [Simple blockchain dapp vinod's blog](https://dev.to/vinodnextcoder/create-your-first-simple-dapp-on-ethereum-55k1) to create a decentralized application.
 
 # Introduction
 ```ts
