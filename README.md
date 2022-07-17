@@ -28,6 +28,7 @@ Details process https://medium.com/geekculture/create-your-first-dapp-on-ethereu
 ## Smart Contract Deployment
 ```
 This is a simple curd smart contract, which deals with students’ data.
+create copy .env.example to .env file
 Let’s deploy the contract in a remix environment
 First, navigate to address https://remix.ethereum.org/ 
 Add new curd.sol
